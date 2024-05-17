@@ -1,3 +1,47 @@
-p{
-    color: #cc2122;;
+
+h1 {
+    background-color: lightgreen;
+}
+
+h2 {
+    color: darkblue;
+}
+
+main {
+    background-color: bisque;
+}
+
+dt {
+    color: crimson;
+}
+table{
+    background-color: rgb(136, 249, 253);
+    border: 2px solid black;
+    text-align: center;
+    margin: auto;
+    border-collapse: collapse;
+}
+th{
+    background-color: darkseagreen;
+}
+td{
+    border: 2px solid black;
+
+}
+*{
+    text-align: center;
+}
+footer{
+    background-color: azure;
+}
+body{
+    background-color: bisque;
+}
+ol li{
+    text-align:left;
+
+}
+a{
+    font-size: x-large;
+    color: black;
 }
