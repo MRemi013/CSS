@@ -45,3 +45,16 @@ a{
     font-size: x-large;
     color: black;
 }
+table{
+    background-color: darkgray;
+    border: 2px solid black;
+    margin: auto;
+    border-collapse:collapse ;
+    text-align: center;
+}
+td{
+   border: 2px solid black;
+}
+th{
+    background-color: burlywood;
+}

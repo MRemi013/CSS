@@ -1,20 +1,35 @@
 /*Estilo para la pagina web*/
 
-body {  
-    background-color: #f2f2f2;  
+body {
+    background-color: #f2f2f2;
     font-size: 16px;
-    }
-   h1.encabezado {  
-    text-align: center;  
-    text-transform: uppercase;  
-    font-weight: bold;  
+}
+
+h1.encabezado {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
     font-size: 42px;
+}
+
+p {
+    font-size: 20px;
+    color: rgb(20, 8, 15)
+}
+
+p.parrafo {
+    text-align: justify;
+    text-transform: capitalize;
+    font-size: 24px;
+}
+#fondo {  
+    background-color: #aa3b3b; /* modificar el color a elección */
+    }
+    p a {  
+        color: #333;  
+        text-decoration: none;
+    }
+    p.centro{
+        text-align: center;
     }
     
-    p{
-        font-size: 20px;
-        color:deeppink
-    }
-  
-        
-       
