@@ -1,27 +1,47 @@
-.juegos{
-    display:flex ;
-    
+.juegos {
+    display: flex;
+    border: 5px solid rgba(0, 0, 0, 0.479);
+   
 }
-body{
-   background-size: cover;
+
+
+body {
+    background-size:cover;
     background-image: url(https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2024/05/assassins-creed-shadows-3315088.jpg?tf=3840x)
 }
-.imagen{
+
+.imagen {
     background-color: rgba(83, 8, 8, 0.308);
     margin: auto;
 }
-h2{
+
+h2 {
     color: aliceblue;
 }
-a{
+
+a {
     font-family: 'Courier New', Courier, monospace;
 }
-footer ul{
+
+footer ul {
     Background-color: rgba(206, 4, 4, 0.308);
     display: flex;
-   
+
 }
-ul li{
+
+ul li {
     list-style: none;
     display: inline-block;
+    margin: auto;
+
+}
+h3{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+    
+}
+.Noticias{
+    display: flex;
 }
